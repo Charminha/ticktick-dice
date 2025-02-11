@@ -1,4 +1,4 @@
-# ticktick-dice
+# ticktick-dice 🎲
 Browser bookmarklet that picks a random TickTick task for you.
 
 TickTick Dice is a browser plugin for motivation, against decision fatigue and analysis paralysis. 
@@ -10,6 +10,6 @@ TickTick Dice is a browser plugin for motivation, against decision fatigue and a
 - Click 💪🏽, if you've found a suitable task for yourself. The window will be closed and and animation will be shown.
 - Click ❌, if you want to close the window the boring way.
 
-Pro Tip: If you want to filter what tasks can be choosen by the script, you can do so by adjusting your view in the TickTick web app itself using their lists and filters. The bookmarklet can only choose from what is displayed on the current page. Use that to your advantage! :)
+**Pro Tip:** If you want to filter what tasks can be choosen by the script, you can do so by adjusting your view in the TickTick web app itself using their lists and filters. The bookmarklet can only choose from what is displayed on the current page. Use that to your advantage! :)
 
-Fellow Nerd? If you want to look at what exactly this code does, look at bookmarklet.js. 
+**Fellow Nerd?** If you want to look at what exactly this code does, look at bookmarklet.js. 
