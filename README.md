@@ -1,7 +1,7 @@
 # ticktick-dice 🎲
 Browser bookmarklet that picks a random TickTick task for you.
 
-TickTick Dice is a browser plugin for motivation, against decision fatigue and analysis paralysis. 
+TickTick Dice is a browser bookmarklet for motivation, against decision fatigue and analysis paralysis. 
 
 ## Instructions:
 - Copy the code (bookmarklet-minified.txt) and add it as a bookmark in your browser of choice.  
