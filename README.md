@@ -13,3 +13,5 @@ TickTick Dice is a browser bookmarklet for motivation, against decision fatigue 
 **Pro Tip:** If you want to filter what tasks can be choosen by the script, you can do so by adjusting your view in the TickTick web app itself using their lists and filters. The bookmarklet can only choose from what is displayed on the current page. Use that to your advantage! :)
 
 **Fellow Nerd?** If you want to look at what exactly this code does, look at bookmarklet.js. 
+
+![TickTick Dice Bookmarklet Demo](./bookmarklet-demo.gif)
