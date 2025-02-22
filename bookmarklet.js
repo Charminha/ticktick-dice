@@ -88,7 +88,7 @@
         setTimeout(() => {
             document.body.removeChild(taskBox);
             document.removeEventListener("keydown", handleKeyPress);
-        }, 800);  // Delay to see animation
+        }, 1200);  // Delay to see animation
     };
 
     // Add elements to the floating box
